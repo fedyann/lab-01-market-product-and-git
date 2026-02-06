@@ -36,3 +36,5 @@ Components interacting:
 3. Order Management → Payment Service – initiation of payment through banking gateway
 4. Payment Service → Bank/Acquirer – processing of 3DS authentication
 5. Kafka Event Bus → WMS (Warehouse) – asynchronous transmission of order for assembly after payment
+
+## Deployment
